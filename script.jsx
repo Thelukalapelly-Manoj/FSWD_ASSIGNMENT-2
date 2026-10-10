@@ -3,3 +3,4 @@ function ABC(){
     console.log("Hello World")
 }
 <ABC/>
+ABC()
