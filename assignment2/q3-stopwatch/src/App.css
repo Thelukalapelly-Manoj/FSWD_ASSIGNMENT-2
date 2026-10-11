@@ -1,0 +1,24 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f1f5f9;
+}
+
+.stopwatch {
+  max-width: 350px;
+  margin: 80px auto;
+  padding: 25px;
+  text-align: center;
+  background: white;
+  border-radius: 12px;
+}
+
+.stopwatch h2 {
+  font-size: 40px;
+}
+
+.stopwatch button {
+  margin: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+}

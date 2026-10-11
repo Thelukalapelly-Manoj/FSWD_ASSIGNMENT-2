@@ -1,0 +1,27 @@
+
+.container {
+  text-align: center;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.primary {
+  background-color: #2563eb;
+}
+
+.success {
+  background-color: #16a34a;
+}
+
+.danger {
+  background-color: #dc2626;
+}
+
+.custom-button {
+  transition: transform 0.2s, opacity 0.2s;
+}
+
+.custom-button:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
+}
